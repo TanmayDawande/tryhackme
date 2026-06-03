@@ -25,3 +25,17 @@ Mac address can be spoofed
 PING:
 ping uses icmp(internet control message protocol) 
 ping https://youtube.com
+
+
+ 192.168.1.0 - network address
+ 192.168.1.100 - ip of any host connected
+ 192.168.1.254 - default gateway
+default gateway is for any data that doesnt live in your innediate local network. Eg - websites
+
+OSI model
+iso model is a 7 layered, where each layer handles a specific job
+
+layer 7 - Application Layer (GUI)
+layer 6 - Presentation (acta as a translator)
+layer 5 - Session (syncs two computers)
+layer 4 - Transport (TCP and UDP protocols)
